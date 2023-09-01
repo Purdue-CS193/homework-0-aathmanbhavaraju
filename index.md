@@ -4,7 +4,7 @@
 
 ## Aathman's Favorite Things About CS 193
 - None
-- How flexible the class is
+-  How flexible the class is
 - Class once a week
 - TAs that are genuinely helpful
 - The large class size
